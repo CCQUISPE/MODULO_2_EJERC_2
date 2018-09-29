@@ -10,6 +10,13 @@ namespace MODULO_2_EJERC_2
     {
         static void Main(string[] args)
         {
+
+
+            //Tarea 2: Crea un programa que diga el resultado de sumar 200 y 56.
+
+            Console.WriteLine("Ejercicio 2: la suma de 200+56= {0}", 200 + 56);
+            Console.ReadKey();
+
         }
     }
 }
